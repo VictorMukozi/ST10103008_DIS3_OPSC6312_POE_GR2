@@ -1,0 +1,33 @@
+ 
+Bird Zone combines these features to create a user-friendly, informative, and engaging platform catering to bird lovers and enthusiasts.
+
+
+1. User Authentication and Database
+   - Secure login and registration stored in an online Firebase database.
+
+2. Search Functionality:
+   - Functional search button for easy navigation within the app.
+
+3. Preconfigured Birding Hotspots:
+   - Image buttons showcasing predefined birding hotspots across South Africa.
+   - Clicking these images redirects users to dedicated websites for detailed information.
+
+4. Interactive Map Feature:
+   - Pin interaction on the map reveals the names of birding hotspots, aiding exploration.
+
+5. Bird Observation Capabilities:
+   - Uploading images and capturing photos of various bird species.
+   - Seamless storage of bird observations in an online database.
+
+6. Efficient Image Uploads:
+   - Ability to upload multiple images without encountering errors.
+
+7. Location and Navigation
+   - View current location and generate routes on Google Maps to preferred birding spots.
+
+8. Personalized Observations:
+   - Add nicknames and notes to individual bird sightings for personalized records.
+
+9.Matric system 
+-The app allows users to select between miles and km
+
